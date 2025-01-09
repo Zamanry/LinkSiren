@@ -30,6 +30,9 @@ source ./.venv/bin/activate # Linux
 
 # Install requirements
 python -m pip install -r requirements.txt
+
+# Install package
+python -m pip install .
 ```
 
 </details>
